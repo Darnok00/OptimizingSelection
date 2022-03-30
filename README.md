@@ -18,3 +18,9 @@ With such a graph we can perform an algorithm calculating min cost flow, whose i
 
 <img width="1056" alt="Zrzut ekranu 2022-03-28 o 21 50 32" src="https://user-images.githubusercontent.com/56363711/160475770-a0a60a20-bd68-4e02-8cdd-31f65b874de3.png">
 
+## Plans for the future 
+
+In the near future, I plan to create a GUI that would allow you to rate each other and automatically calculate the best match.
+
+
+
